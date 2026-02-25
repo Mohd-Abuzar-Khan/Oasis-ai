@@ -1,4 +1,4 @@
-# 🌊 Oasis AI - AI-Powered Essay Writing Platform
+# 🌊 Oasis AI - AI-Powered Essay Writing Platform 
 
 **Oasis** is a modern, AI-powered essay writing and evaluation platform that helps users improve their writing skills through personalized feedback, typing practice, and progress tracking.
 

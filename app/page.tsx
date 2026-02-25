@@ -86,40 +86,6 @@ export default function Page() {
               playsInline
               aria-label="Hand-drawn typing concept"
             />
-{/* 
-            <img
-              src="/images/logo-star.gif"
-              alt=""
-              aria-hidden="true"
-              className="pointer-events-none absolute -top-6 -right-4 md:-right-6 w-14 h-14 md:w-20 md:h-20"
-            /> */}
-
-            {/* <Link
-              href="#features"
-              aria-label="Scroll to features"
-              className="group absolute -bottom-6 left-4 inline-flex items-center gap-2"
-            >
-              <span className="text-sm text-muted-foreground">See what’s next</span>
-              <svg
-                viewBox="0 0 24 24"
-                className="w-5 h-5 text-primary animate-bounce transition-transform group-hover:translate-x-1"
-                aria-hidden="true"
-              >
-                <path
-                  d="M12 4v12m0 0l-5-5m5 5l5-5"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            </Link> */}
-
-            {/* <p className="mt-8 text-sm md:text-base text-muted-foreground leading-relaxed">
-              In the slides below, we introduce the essentials—distraction‑free editor, smart auto‑correct, snippet
-              expansions, and actionable analytics—so you know exactly what’s coming next.
-            </p> */}
           </div>
         </div>
 
